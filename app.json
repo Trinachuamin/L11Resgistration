@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "L11Resgistration",
-    "slug": "L11Resgistration",
+    "name": "L11Registration",
+    "slug": "L11Registration",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
